@@ -1,0 +1,14 @@
+# Runtime outputs
+downloads/
+chrome_cdp_profile/
+logs/
+
+# Secrets / private config
+app_secret.py
+app_secret.json
+
+# OS / tool noise
+*.log
+*.tmp
+Thumbs.db
+Desktop.ini
